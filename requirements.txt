@@ -1,0 +1,15 @@
+transformers
+pandas
+numpy
+scikit-learn
+joblib
+google-play-scraper
+nltk
+Sastrawi
+regex
+transformers
+torch
+streamlit
+seaborn
+matplotlib
+datasets
